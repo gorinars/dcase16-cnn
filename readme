@@ -1,0 +1,2 @@
+run task3_gmm_baseline.py to download the data and train baseline GMM system
+alternatively you can prepare the data folder similar to the one produced by baseline system
